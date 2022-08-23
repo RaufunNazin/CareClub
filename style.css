@@ -1,0 +1,236 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: aliceblue;
+}
+
+.title {
+    font-size: 70px;
+    font-weight: bolder;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+}
+
+.white {
+    color: white;
+}
+
+.top-text {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+}
+
+.top-part {
+    display: block;
+    background-image: url(/images/donation13.jpg);
+    margin-bottom: 100px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.sub-text {
+    font-size: 15px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.donatebutton-1 {
+    background-color: peachpuff;
+    border: none;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    padding: 15px 32px;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    align-items: center;
+    font-size: 16px
+}
+
+.donatebutton-2 {
+    background-color: peachpuff;
+    border: none;
+    padding: 15px 32px;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    align-items: center;
+    font-size: 16px
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 20px;
+}
+
+.amount {
+    margin: 20px;
+    background-color: azure;
+    border: none;
+    color: black;
+    padding: 30px 30px;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    align-items: center;
+    font-size: 16px
+}
+
+.specialbtn {
+    margin: 20px;
+    background-color: peachpuff;
+    border: 2px solid rgb(241, 187, 86);
+    color: black;
+    padding: 30px 30px;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    align-items: center;
+    font-size: 16px
+}
+
+.specify {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    color: black;
+    padding: 30px 30px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.input {
+    color: black;
+    padding: 10px 5px;
+    font-size: x-large;
+    text-align: center;
+    border-bottom: 2px solid rgb(48, 48, 48);
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background-color: aliceblue;
+}
+
+.plans {
+    margin-top: 100px;
+}
+
+.plans-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+}
+
+.box-top {
+    font-size: 30px;
+}
+
+.box-sub {
+    font-size: 15px;
+}
+
+.box-1 {
+    inline-size: 300px;
+    background-color: bisque;
+    margin-left: 300px;
+    margin-right: 20px;
+    padding: 50px 20px;
+}
+
+.box-2 {
+    inline-size: 300px;
+    background-color: azure;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 50px 20px;
+}
+
+.box-3 {
+    inline-size: 300px;
+    background-color: pink;
+    margin-left: 20px;
+    margin-right: 300px;
+    padding: 50px 20px;
+}
+
+.inputmail {
+    
+    color: black;
+    padding: 10px 5px;
+    font-size: x-large;
+    text-align: center;
+    border-bottom: 2px solid whitesmoke;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+.subscribe{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer {
+    background-color: black;
+    margin-top: 100px;
+    padding: 30px;
+}
+
+.peachpuff {
+    color: peachpuff;
+}
+
+.img {
+    width: 135px;
+    margin-right: 20px;
+    margin-left: 50px;
+}
+
+#img-1 {
+    width: 135px;
+    margin-right: 20px;
+}
+
+.name {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: left;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+}
+
+.cmnt {
+    font-size: 15px;
+    text-align: left;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    inline-size: 250px;
+}
+
+.comment {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.testimonials {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+    
+}
