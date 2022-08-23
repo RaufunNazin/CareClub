@@ -27,7 +27,7 @@ body {
 
 .top-part {
     display: block;
-    background-image: url(/images/donation13.jpg);
+    background-image: url(/images/Banner.jpg);
     margin-bottom: 100px;
     background-repeat: no-repeat;
     background-position: center;
@@ -233,4 +233,8 @@ footer {
     align-items: center;
     margin-bottom: 100px;
     
+}
+
+.icon {
+
 }
